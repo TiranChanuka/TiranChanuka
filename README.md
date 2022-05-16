@@ -14,5 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiranchanuka&show_icons=true&locale=en" alt="tiranchanuka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiranchanuka&" alt="tiranchanuka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiranChanuka&" alt="TiranChanuka" /></p>
 
