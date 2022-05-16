@@ -12,11 +12,14 @@
 
 
 # 📊GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TiranChanuka&count_private=true&theme=tokyonight&showicons=true&)]()<br/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TiranChanuka&langs_count=5&theme=tokyonight)]()
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TiranChanuka&show_icons=true&locale=en&theme=tokyonight" alt=TiranChanuka" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiranChanuka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TiranChanuka" /></p>
+
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiranChanuka&theme=tokyonight" alt="TiranChanuka" /></p>
 
 ## 🏆GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=TiranChanuka&margin-w=80)
+![trophy](https://github-profile-trophy.vercel.app/?username=TiranChanuka&margin-w=80&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TiranChanuka&icon=8&color=0)](https://visitcount.itsvg.in)
