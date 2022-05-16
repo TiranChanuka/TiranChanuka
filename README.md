@@ -14,7 +14,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TiranChanuka&langs_count=5&theme=tokyonight)]()
 
 ## 🏆GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=TiranChanuka&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=TiranChanuka&margin-w=50)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TiranChanuka&icon=8&color=0)](https://visitcount.itsvg.in)
