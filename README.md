@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 <h4 align="center">
 👨🏻‍🎓 I'm a student of Uva Wellassa University of Sri Lanka<br/>
-🌱 I’m currently learning React JS,Angular,Flutter
+🌱 I’m currently learning React JS, Flutter, Figma
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
