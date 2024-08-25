@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **React JS, Next js, Flutter**
 
-- 📝 I regularly write articles on [https://blendvisions.me/](https://blendvisions.me/)
 
 - 📫 How to reach me **tiranchanukaw@gmail.com**
 ## 🌐 Socials:
